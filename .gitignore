@@ -24,3 +24,11 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
+.github
+.vscode
+./src/firebase.js
+craco.config.js
+.firebaserc
+firebase.json
+tailwind.config.js
+yarn.lock
